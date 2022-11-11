@@ -1,0 +1,18 @@
+{
+  "Name": "Home_inventory",
+  "Date Modified": "11/10/22",
+  "Items": {
+    "1": {
+      "Item Name": "Desktop",
+      "Room": "Office",
+      "Item Price": 350,
+      "Item Quantity": 2
+    },
+    "2": {
+      "Item Name": "Keyboard",
+      "Room": "Computer",
+      "Item Price": 50,
+      "Item Quantity": 5
+    }
+  }
+}
